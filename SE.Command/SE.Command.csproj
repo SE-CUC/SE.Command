@@ -26,4 +26,5 @@
   <Import Project="..\..\SE.Configuration\SE.Configuration.Mixin\SE.Configuration.Mixin.projitems" Label="Shared" />
   <Import Project="..\..\SE.Logging\SE.Logging.Mixin\SE.Logging.Mixin.projitems" Label="Shared" />
   <Import Project="..\SE.Command.Mixin\SE.Command.Mixin.projitems" Label="Shared" />
+  <Import Project="..\..\SE.SEApplication\SE.SEApplication.Mixin\SE.SEApplication.Mixin.projitems" Label="Shared" />
 </Project>

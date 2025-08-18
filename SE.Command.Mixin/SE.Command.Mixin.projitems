@@ -13,6 +13,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Core\Interfaces\ICommandModule.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Core\Interfaces\ICommandService.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Core\Models\Command.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\CommandExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Services\CommandService.cs" />
   </ItemGroup>
 </Project>
