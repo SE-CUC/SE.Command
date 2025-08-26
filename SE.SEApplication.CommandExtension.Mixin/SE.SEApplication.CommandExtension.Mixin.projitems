@@ -9,11 +9,6 @@
     <Import_RootNamespace>IngameScript</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)Core\Interfaces\ICommand.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Core\Interfaces\ICommandModule.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Core\Interfaces\ICommandService.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Core\Models\Command.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Services\CommandService.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Services\FakeModule.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CommandExtensions.cs" />
   </ItemGroup>
 </Project>
